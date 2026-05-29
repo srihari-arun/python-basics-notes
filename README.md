@@ -29,7 +29,8 @@ This repository is designed for quick revision, better understanding of core top
 
 ## 🛠️ Technologies
 
-* Python 
+* Python
+* IDE - PyCharm
 
 ---
 
