@@ -1,7 +1,7 @@
-📘 While Loop & List Operations - Python Notes
+📘 While Loop - Python Notes
 ==============================================
 
-A simple Python example demonstrating the use of while loops, list operations, and basic data structure concepts.
+A beginner-friendly set of notes explaining the concept of while loops in Python with examples and practice programs.
 
 ----------
 🎯 Purpose
