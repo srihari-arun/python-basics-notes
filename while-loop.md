@@ -35,7 +35,7 @@ A while loop is a loop that keeps running while a condition is true, and stops w
 It can run infinitely as long as the condition stays true
 
 --------------------------
-🚀 Syntax is a while-loop
+🚀 Syntax of a while-loop
 --------------------------
 ```
 while condition:
